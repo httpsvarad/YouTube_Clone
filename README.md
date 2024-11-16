@@ -1,4 +1,4 @@
-# 🎥 YouTube Clone
+# 🎥 YouTube Clone  
 
 A modern YouTube clone built with **React** and **Vite**, featuring a clean UI, video player functionality, and data fetching from an external API. This project showcases responsive design and modular React components to emulate key features of YouTube.
 
