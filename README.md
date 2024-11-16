@@ -54,6 +54,5 @@ A modern YouTube clone built with **React** and **Vite**, featuring a clean UI, 
 
 ## 📧 Contact
 
-- **Name** : Varad Manegopale
-- **Email**: varad.manegopale28@gmail.com
+**Email**: varad.manegopale28@gmail.com
 
