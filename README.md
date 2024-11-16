@@ -36,7 +36,7 @@ A modern YouTube clone built with **React** and **Vite**, featuring a clean UI, 
    ```
 
 3. **Add API Key**:
-   - Create a `.env` file in the root directory and add your API key:
+   Create a .env file in the root directory and add your API key:
      ```
      VITE_YOUTUBE_API_KEY=your_api_key_here
      ```
