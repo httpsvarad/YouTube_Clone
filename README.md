@@ -22,7 +22,7 @@ A modern YouTube clone built with **React** and **Vite**, featuring a clean UI, 
 
 ---
 
-## 🌟 Installation
+## 🌟 Installation 
 
 1. **Clone the repository**:
    ```bash
