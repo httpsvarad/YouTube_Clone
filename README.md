@@ -16,7 +16,7 @@ A modern YouTube clone built with **React** and **Vite**, featuring a clean UI, 
 
 - **Frontend**: React, Vite
 - **Styling**: Tailwind CSS
-- **API**: YouTube Data API (or mock data)
+- **API**: Rapid API Youtube V3
 - **Routing**: React Router
 - **State Management**: Context API or Redux
 
